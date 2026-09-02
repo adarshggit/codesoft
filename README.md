@@ -100,7 +100,7 @@ A Python-based Contact Book application for managing contact information.
 ## 📂 Repository Structure
 
 ```text
-CODSOFT_TASKSNO/
+CODSOFT/PYTHONPROGRAMMING/
 │
 ├── README.md
 │
